@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -1051,4 +1051,8 @@ h4 {
 
 .citation2 {
     line-height:0;font-size:14px;
+}
+
+footer .white , #bloc-6 .tc-white , #bloc-7 .btn-atomic-tangerine {
+    color: black !important;
 }
